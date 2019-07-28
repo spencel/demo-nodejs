@@ -18,7 +18,10 @@ The result should be something like this:
 v10.16.0
 ```
 
+Please see the [official documentation](https://nodejs.org/en/docs/) for more.
+
 Tutorials
 =
 
 [Hello World](./tutorials/hello-world/hello-world.md)
+[Node Package Manager (NPM)](./tutorials/hello-world/npm.md)
