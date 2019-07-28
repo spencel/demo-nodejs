@@ -37,3 +37,6 @@ npm un -s lodash
 ```
 npm i
 ```
+
+Resources:
+- [https://docs.npmjs.com/](https://docs.npmjs.com/)

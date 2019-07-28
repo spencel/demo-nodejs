@@ -18,12 +18,10 @@ The result should look something like this:
 v10.16.0
 ```
 Resources:
-
-[Node.js Official Documentation](https://nodejs.org/en/docs/)
+- [https://nodejs.org/en/docs/](https://nodejs.org/en/docs/)
 
 Tutorials
 =
 
-[Hello World](./tutorials/hello-world/hello-world.md)
-
-[Node Package Manager (NPM)](./tutorials/hello-world/npm.md)
+- [Hello World](./tutorials/hello-world/hello-world.md)
+- [Node Package Manager (NPM)](./tutorials/npm-tutorial/npm.md)
