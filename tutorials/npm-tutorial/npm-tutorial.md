@@ -4,7 +4,7 @@ Node Package Manager (NPM) Tutorial
 NPM is a JavaScript package manager.
 
 
-1. Create a new folder.
+1. Create a new folder and give it a name such as *my-node-project*.
 2. Navigate to the folder in a CLI.
 3. Create a package.json file by execute the following command:
 
@@ -19,7 +19,7 @@ You will be prompted to enter a package name, which is typically the same name a
 ```
 npm i -s lodash
 ```
-The -s flag saves lodash as a dependency for this project. If you view package.json, then you will see the following in part of that file:
+The -s flag saves lodash as a dependency for this project. If you view package.json, then you will see something like the following in part of that file:
 ```
 "dependencies": {
     "lodash": "^4.17.15"
