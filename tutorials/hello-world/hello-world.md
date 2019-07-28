@@ -18,3 +18,5 @@ The result should be:
 ```
 Hello World!
 ```
+
+To learn more, please see the [official documentation](https://nodejs.org/en/docs/).

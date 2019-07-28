@@ -17,8 +17,8 @@ The result should be something like this:
 ```
 v10.16.0
 ```
-
-Please see the [official documentation](https://nodejs.org/en/docs/) for more.
+Resources:
+[Node.js Official Documentation](https://nodejs.org/en/docs/)
 
 Tutorials
 =
