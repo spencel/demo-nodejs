@@ -24,4 +24,4 @@ Tutorials
 =
 
 - [Hello World](./tutorials/hello-world/hello-world.md)
-- [Node Package Manager (NPM)](./tutorials/npm-tutorial/npm.md)
+- [Node Package Manager (NPM)](./tutorials/npm-tutorial/npm-tutorial.md)
